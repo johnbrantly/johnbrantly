@@ -4,6 +4,8 @@
 
 Computing since 1984. Full-stack when you need it, light-touch when you don't. I build what you need and nothing more.
 
+You can find my personal github (aka my "lab") here: [**homesteadhacker**](https://github.com/homesteadhacker)
+
 ---
 
 ## 💼 Skills & Technologies
