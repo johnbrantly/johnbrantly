@@ -1,6 +1,6 @@
 # Hi there, I'm John Brantly 👋
 
-**AI Consultant | Product Engineer | Technical Product Manager | Platform & Integrations**
+**IT Consultant | Business Analyst | Product Engineer**
 
 Computing since 1984. Full-stack when you need it, light-touch when you don't. I build what you need and nothing more.
 
